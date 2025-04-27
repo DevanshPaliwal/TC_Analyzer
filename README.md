@@ -1,1 +1,1 @@
-# TC_Analyzer
+# Time Complexity Analyzer for Google Chrome
