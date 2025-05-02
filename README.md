@@ -1,1 +1,1 @@
-# Time Complexity Analyzer for Google Chrome
+# Time Complexity Analyzer for LC
